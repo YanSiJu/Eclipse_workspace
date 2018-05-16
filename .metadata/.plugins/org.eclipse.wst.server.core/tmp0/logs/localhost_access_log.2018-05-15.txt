@@ -1,0 +1,4 @@
+127.0.0.1 - - [15/May/2018:23:12:33 +0800] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [15/May/2018:23:12:35 +0800] "GET /SalesManagementSys/ HTTP/1.1" 200 1683
+127.0.0.1 - - [15/May/2018:23:31:41 +0800] "GET /SalesManagementSys/admin/login?account=admin&password=123456 HTTP/1.1" 500 23239
+127.0.0.1 - - [15/May/2018:23:43:23 +0800] "GET / HTTP/1.1" 404 1074

@@ -1,0 +1,19 @@
+1526453874678	Rename resource 'materialMapper.xml'
+1526454290491	Move 'apache-commons-lang.jar' to 'lib'
+1526454293664	Move 'classmate-0.8.0.jar' to 'lib'
+1526454295618	Move 'com.springsource.net.sf.cglib-2.2.0.jar' to 'lib'
+1526454297644	Move 'com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar' to 'lib'
+1526454299670	Move 'commons-fileupload-1.2.1.jar' to 'lib'
+1526454301734	Move 'jackson-annotations-2.1.5.jar' to 'lib'
+1526454303530	Move 'commons-io-2.0.jar' to 'lib'
+1526454305129	Move 'commons-logging-1.1.3.jar' to 'lib'
+1526454307820	Move 'jstl.jar' to 'lib'
+1526454309554	Move 'hibernate-validator-annotation-processor-5.0.0.CR2.jar' to 'lib'
+1526454518828	Delete element
+1526454523035	Delete element
+1526454527940	Delete element
+1526454538817	Delete element
+1526454559525	Rename type 'Schedule'
+1526454880369	Delete element
+1526454885294	Delete element
+1526474804766	Encapsulate field 'tel'

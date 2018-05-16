@@ -1,0 +1,5 @@
+package cn.ccsu.controller;
+
+public class BlogController {
+
+}

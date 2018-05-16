@@ -1,0 +1,6 @@
+package cn.ccsu.dao;
+
+@Repository
+public interface BlogMapper {
+
+}
